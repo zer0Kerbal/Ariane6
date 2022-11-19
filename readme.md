@@ -150,7 +150,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [MOD:markt]: https://zer0kerbal.github.io/Ariane6/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/Ariane6/Notices "Notices"
 [MOD:parts]: https://zer0kerbal.github.io/Ariane6/PartsCatalog "Parts Catalog"
-[MOD:pages]: https://zer0kerbal.github.io/Ariane 6 "GitHub Pages"
+[MOD:pages]: https://zer0kerbal.github.io/Ariane6 "GitHub Pages"
 
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ariane6/master/json/mod.json
