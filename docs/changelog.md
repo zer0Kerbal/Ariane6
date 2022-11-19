@@ -35,6 +35,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Issues
   * closes #8 - Archival Releases
   * closes #18 - 1.1.4.0-release - `<Archival>` edition
+  * updates #42 - both booster.cfg's missing closing master brace (fixed)
 
 ---
 
@@ -52,6 +53,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Issues
   * updates #8 - Archival Releases
   * closes #17 - 1.1.3.0-release - `<Archival>` edition
+  * updates #42 - both booster.cfg's missing closing master brace (fixed)
 
 ---
 
@@ -69,6 +71,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Issues
   * updates #8 - Archival Releases
   * closes #16 - 1.1.2.0-release - `<Archival>` edition
+  * updates #42 - both booster.cfg's missing closing master brace (fixed)
 
 ---
 
@@ -87,6 +90,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * updates #8 - Archival Releases
   * closes #14 - 1.1.1.0-release - `<Archival>` edition
   * closes #15 - duplicate
+  * updates #42 - both booster.cfg's missing closing master brace (fixed)
 
 ---
 
@@ -105,6 +109,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Issues
   * updates #8 - Archival Releases
   * closes #13 - 1.1.0.0-release - `<Archival>` edition
+  * updates #42 - both booster.cfg's missing closing master brace (fixed)
 
 ---
 
@@ -123,5 +128,6 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Issues
   * updates #8 - Archival Releases
   * closes #19 - 1.0.0.0-release - `<Archival>` edition
+  * updates #42 - both booster.cfg's missing closing master brace (fixed)
 
 ---
