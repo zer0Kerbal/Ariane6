@@ -19,6 +19,12 @@
 
 * fairing bug fixed
 
+### Status 1.1.4.0
+
+* Issues
+  * closes #8 - Archival Releases
+  * closes #18 - 1.1.4.0-release - `<Archival>` edition
+
 ---
 
 ## Version 1.1.3.0-release - `<Archival>` edition
@@ -29,6 +35,12 @@
   * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
 * fix amount of fuel for stock versions
+
+### Status 1.1.3.0
+
+* Issues
+  * updates #8 - Archival Releases
+  * closes #17 - 1.1.3.0-release - `<Archival>` edition
 
 ---
 
@@ -41,6 +53,12 @@
 
 * Added new craft files
 
+### Status 1.1.2.0
+
+* Issues
+  * updates #8 - Archival Releases
+  * closes #16 - 1.1.2.0-release - `<Archival>` edition
+
 ---
 
 ## Version 1.1.1.0-release - `<Archival>` edition
@@ -51,6 +69,13 @@
   * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
 * compatibility with 1.6.X faring bug fix
+
+### Status 1.1.1.0
+
+* Issues
+  * updates #8 - Archival Releases
+  * closes #14 - 1.1.1.0-release - `<Archival>` edition
+  * closes #15 - duplicate
 
 ---
 
@@ -64,6 +89,12 @@
 * compatibility with KSP 1.6.X
 * Bug with fairing fixed
 
+### Status 1.1.0.0
+
+* Issues
+  * updates #8 - Archival Releases
+  * closes #13 - 1.1.0.0-release - `<Archival>` edition
+
 ---
 
 ## Version 1.0.0.0-release - `<Archival>` edition
@@ -75,5 +106,11 @@
 
 * Initial release
 * No changelog provided
+
+### Status 1.0.0.0
+
+* Issues
+  * updates #8 - Archival Releases
+  * closes #19 - 1.0.0.0-release - `<Archival>` edition
 
 ---
