@@ -177,7 +177,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [ckan:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ariane6/master/json/ckan.json "CKAN"
 
 <!--- release links -->
-[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/Ariane 6 "Curseforge"
+[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/Ariane6 "Curseforge"
 [CURSFG:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
 
 [GITHUB:url]: https://github.com/zer0Kerbal/Ariane6/ "GitHub"
