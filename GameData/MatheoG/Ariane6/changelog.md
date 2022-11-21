@@ -67,11 +67,13 @@
 ## Version 1.1.1.0-release - `<Archival>` edition
 
 * Released
-  * on 2019-07-18
+  * on 18 Jul 2019
   * for Kerbal Space Program 1.6.1
   * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
-* compatibility with 1.6.X faring bug fix
+* compatibility with 1.6.X
+* faring bug fix
+* adjust nodes
 
 ### Status 1.1.1.0
 
