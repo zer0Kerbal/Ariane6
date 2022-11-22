@@ -104,6 +104,11 @@
 * relocate part.cfg to Parts/
 * closes #10 - Part Asset Updates
 
+  * removed 3 <BackgroundWhite.png> 15kb (45.1kb reduction)
+  * removed a <COIFFE1Couleur_de_Surface.png> 226kb (226kb reduction)
+  * removed a <Révolution.1Couleur_de_Surface.png> 191kb (191kb reduction)
+
+
 ### Localization 1.0.99.0
 
 * Create
