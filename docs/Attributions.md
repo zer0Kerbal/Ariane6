@@ -7,7 +7,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.7.1
-Ariane 6 (ARIANE)
+Ariane 6 (L3S)
 created: 01 Feb 2022
 updated: 03 Jun 2022
 -->
@@ -15,7 +15,7 @@ updated: 03 Jun 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Ariane 6 (ARIANE)
+# Ariane 6 (L3S)
 
 [Home](./index.md)
 
@@ -24,7 +24,7 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/"><img alt="Matheo G" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_04/OYnZVFQ-_400x400.thumb.jpg.4cf6d58ff3ae7ab534e0622d3b8eb45d.jpg" width="50" height="50" > Matheo G</a> for creating the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/210687-*/" alt="Ariane 6 (ARIANE)"> Ariane 6 (ARIANE) part addon!</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/"><img alt="Matheo G" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_04/OYnZVFQ-_400x400.thumb.jpg.4cf6d58ff3ae7ab534e0622d3b8eb45d.jpg" width="50" height="50" > Matheo G</a> for creating the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/210687-*/" alt="Ariane 6 (L3S)"> Ariane 6 (L3S) part addon!</a></li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
