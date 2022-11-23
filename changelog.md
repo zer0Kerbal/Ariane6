@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Ariane 6 (ARIANE)                                                 |
+| modName    | Ariane 6 (L3S)                                                 |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-2.0                                                           |
 | author     | Matheo G and zer0Kerbal                                           |
