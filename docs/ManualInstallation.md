@@ -6,17 +6,17 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.8.1
-Ariane 6 (ARIANE)
+Ariane 6 (L3S)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Ariane 6 (ARIANE)
+# Ariane 6 (L3S)
 
 [Home](./index.md)
 
-European Space Agency's (ESA) future launcher Ariane 6 (Ariane) for Kerbal Space Program.
+European Space Agency's (ESA) future launcher Ariane 6 (L3S) for Kerbal Space Program.
 
 ## Installation Instructions
 
