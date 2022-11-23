@@ -13,6 +13,8 @@ updated: 04 Oct 2022 -->
 # Ariane 6 (L3S)
 
 European Space Agency's (ESA) future launcher Ariane 6 (L3S) for Kerbal Space Program.
+
+European Space Agency's (ESA) future launcher Ariane 6 (L3S) for Kerbal Space Program.
 Internally referred to as _3rd generation Substitute Launch_.
 
 
