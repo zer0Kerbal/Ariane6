@@ -5,13 +5,13 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- hdr-changelog.md v1.0.0.1
-Ariane 6 (ARIANE)
+Ariane 6 (L3S)
 created: 13 May 2022
 updated: 05 Nov 2022
 CC BY-ND 4.0 by zer0Kerbal -->  
 # Changelog  
   
-| modName    | Ariane 6 (ARIANE)                                                 |
+| modName    | Ariane 6 (L3S)                                                 |
 | ---------- | ----------------------------------------------------------------- |
 | license    | WTFPL                                                             |
 | author     | Matheo G and zer0Kerbal                                           |
