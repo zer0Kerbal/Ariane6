@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.9.9
-Ariane 6 (ARIANE)
+Ariane 6 (L3S)
 created: 17 Jul 2017
 updated: 04 Oct 2022 -->
 
@@ -10,10 +10,10 @@ updated: 04 Oct 2022 -->
 [![Pages][MOD:pages:shd]][MOD:pages]
 
 
-# Ariane 6 (ARIANE)
+# Ariane 6 (L3S)
 
-European Space Agency's (ESA) future launcher Ariane 6 (Ariane) for Kerbal Space Program.
-
+European Space Agency's (ESA) future launcher Ariane 6 (L3S) for Kerbal Space Program.
+Internally referred to as _3rd generation Substitute Launch_.
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`Matheo G`][matheog]
