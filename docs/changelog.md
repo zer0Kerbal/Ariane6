@@ -11,9 +11,9 @@ updated: 05 Nov 2022
 CC BY-ND 4.0 by zer0Kerbal -->  
 # Changelog  
   
-| modName    | Ariane 6 (L3S)                                                 |
+| modName    | Ariane 6 (ARIANE)                                                 |
 | ---------- | ----------------------------------------------------------------- |
-| license    | WTFPL                                                             |
+| license    | GPL-2.0                                                           |
 | author     | Matheo G and zer0Kerbal                                           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/210687-*/) |
 | github     | (https://github.com/zer0Kerbal/Ariane6)                           |
@@ -24,8 +24,8 @@ CC BY-ND 4.0 by zer0Kerbal -->
 ## Version 1.1.4.0-release - `<Archival>` edition
 
 * Released
-  * on 2019-11-10
-  * for Kerbal Space Program 1.7.1
+  * on 10 Nov 2019
+  * for Kerbal Space Program 1.7.3
   * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
 * fairing bug fixed
@@ -42,7 +42,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 ## Version 1.1.3.0-release - `<Archival>` edition
 
 * Released
-  * on 2019-07-24
+  * on 24 Jul 2019
   * for Kerbal Space Program 1.7.3
   * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
