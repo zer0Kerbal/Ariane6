@@ -85,9 +85,9 @@ or [![CKAN][ckan:img]][ckan:url]
 
 Other mods by [Matheo G][matheog]
 
-* [Insight](https://spacedock.info/mod/1899)
+* [InSight Lander (INSIGHT)](https://forum.kerbalspaceprogram.com/index.php?/topic/210824-*/)
+* [New Shepard (NSHPD)](https://forum.kerbalspaceprogram.com/index.php?/topic/210741-*/)
 * [TESS](https://forum.kerbalspaceprogram.com/index.php?/topic/210656-*/)
-* [New Shepard](https://spacedock.info/mod/2181)
 
 ### Supports
 
