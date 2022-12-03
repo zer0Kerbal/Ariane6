@@ -39,7 +39,13 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
-[![Kottabos reviews MOD-NAME](https://img.youtube.com/vi/5UOE9WBxLPQ/0.jpg)](https://www.youtube.com/watch?v=5UOE9WBxLPQ)
+[![KSP Mods - Ariane 6](https://img.youtube.com/vi/5UOE9WBxLPQ/0.jpg)](https://www.youtube.com/watch?v=5UOE9WBxLPQ)
+
+### Cabin notes
+
+> included is a _WIP_ [Module Manager][mml] patch for [Real Solar System][rss]
+> currently only things scaled are resources and basic engine parameters.
+> Assistance (even a cheat sheet on what scales and how much) would be appreciated.
 
 ### Help Wanted
 
@@ -92,10 +98,10 @@ Other mods by [Matheo G][matheog]
 
 ### Supports
 
+* [Real Solar System (RSS)][rss]
 * Either [^3]
   * [Module Manager /L][mml]
   * [Module Manager][mm]
-  * [Real Fuels (RF)][rf]
 
 ### Tags
 
@@ -198,7 +204,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[rf]: https://forum.kerbalspaceprogram.com/index.php?/topic/58236-*/ "Real Fuels (RF)"
+[rss]: https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*/ "Real Solar System (rss)"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
