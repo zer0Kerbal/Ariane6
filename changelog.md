@@ -1,8 +1,8 @@
 # Changelog  
   
-| modName    | Ariane 6 (L3S)                                                 |
+| modName    | Ariane 6 (L3S)                                                    |
 | ---------- | ----------------------------------------------------------------- |
-| license    | WTFPL                                                             |
+| license    | GPL-2.0                                                           |
 | author     | Matheo G and zer0Kerbal                                           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/210687-*/) |
 | github     | (https://github.com/zer0Kerbal/Ariane6)                           |
@@ -10,18 +10,37 @@
 | spacedock  | (https://spacedock.info/mod/2185)                                 |
 | ckan       | Ariane6                                                           |
 
-<<<<<<< Updated upstream
-=======
-## 1.1.99.0-adoption - `<Thank you Matheo G` edition
+## Version 1.1.99.0-adoption - `<Thank you Matheo G>` edition
 
 * Released
-  * on 22 Nov 2022
+  * on 02 Dec 2022
   * for Kerbal Space Program 1.12.4
-  * by [zer0Kerbal](https://github.com/zer0Kerbal)
-
-### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
+  * by zer0Kerbal
 
 ### Summary
+
+* Adoption by zer0Kerbal
+* this thing is HUGE!
+  * hanger extender not required
+  * but recommended
+* merged the two versions into one (RSS patch)
+* lots of small fixes *still some minor issues*
+* localization completed (initial language only)
+* tags added
+* new flags
+* added part modules
+* New Cover Logo
+
+#### Possible Future Plans
+
+* scale down for stock
+  * from 5.75m to 3.75m
+  * (~1.55)
+  * mass?
+  * et al?
+* booster
+  * decouple?
+  * fuel xfeed?
 
 ### Archival Releases
 
@@ -31,8 +50,9 @@
 * 1.1.1.0-release - `<Archival>` edition
 * 1.1.0.0-release - `<Archival>` edition
 * 1.0.0.0-release - `<Archival>` edition
+* closes #8 Archival Releases
 
-### Create Legal Mumbo Jumbo 1.0.99.0
+### Create Legal Mumbo Jumbo 1.1.99.0
 
 * Create Legal Mumbo Jumbo
   * license check
@@ -54,7 +74,7 @@
   * SpaceDock
   * CKAN
 
-### Create 1.0.99.0
+### Create 1.1.99.0
 
 * Documentation
   * readme
@@ -85,11 +105,16 @@
     * [Why.md] v1.1.0.0
 * closes #6 - Create GitHub Pages
 
-### Update Parts 1.0.99.0
+### Part  1.1.99.0
 
-  * closes #42 - [BUG] both booster.cfg's missing closing master brace
+* headers
+* lint
+* localize actions/modules
+* tags
+* rename/relocate
+* closes #42 - [BUG] both booster.cfg's missing closing master brace
 
-### Part Asset Updates 1.0.99.0
+### Asset Updates 1.1.99.0
 
 * create Assets/ folder
 * convert from mesh to MODEL {}
@@ -101,17 +126,24 @@
   * model texture pointers to new names
 * relocate assets to Assets/
 * eliminate
-  * duplicate textures
-  * duplicate models
+  * Removed duplicates
+    * total >6mb size reduction
+    * textures >2.024mb size reduction
+      * <Révolution.1Couleur_de_Surface.png>
+        * 5 duplicates = 192kb x5 = .96mb
+      * <BackgroundWhite.png>
+        * 5 duplicates = 16kb x5 80kb
+      * <COIFFE1Couleur_de_Surface.png>
+        * 3 duplicates = 227kb x3 .681mb
+      * <Cylindre.2Couleur_de_Surface.png>
+        * 1 duplicate = 208kb
+      * <DisqueCouleur_de_Surface.png>
+        * 1 duplicate = 95kb
+    * models (.mu) >3.98mb
 * relocate part.cfg to Parts/
 * closes #10 - Part Asset Updates
 
-  * removed 3 <BackgroundWhite.png> 15kb (45.1kb reduction)
-  * removed a <COIFFE1Couleur_de_Surface.png> 226kb (226kb reduction)
-  * removed a <Révolution.1Couleur_de_Surface.png> 191kb (191kb reduction)
-
-
-### Localization 1.0.99.0
+### Localization 1.1.99.0
 
 * Create
   * directory and contents
@@ -126,34 +158,33 @@
 * closes #9 - Create Localization directory and contents
 * closes #11 - Create <Ariane6.cfg>
 * closes #21 - English <en-us.cfg>
-* closes #33 - Part Localization
 * closes #38 - Part Localization
 * closes #39 - Part Tags
 * updates #20 - Localization - Master
 
-### Update License 1.0.99.0
+### Update License 1.1.99.0
 
 * Updated License:
   * to GPL-2.0
   * was: WTFPL
 * closes #12 - Update License
 
-### Status 1.0.99.0
+### Status 1.1.99.0
 
 * Issues
   * closes #1 - Ariane 6 (L3S) 1.1.99.0-adoption `<Thank you Matheo G>` edition
-  * closes #3 - 1.1.99.0 Create Legal Mumbo Jumbo
-  * closes #4 - 1.1.99.0 Create Documentation
-  * closes #5 - 1.1.99.0 Create Social Media Presence
+  * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.1.99.0 Create Documentation
+  * closes #4 - 1.1.99.0 Create Social Media Presence
+  * closes #7 - Archival Releases
 
 ---
 
->>>>>>> Stashed changes
 ## Version 1.1.4.0-release - `<Archival>` edition
 
 * Released
-  * on 2019-11-10
-  * for Kerbal Space Program 1.7.1
+  * on 10 Nov 2019
+  * for Kerbal Space Program 1.7.3
   * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
 * fairing bug fixed
@@ -170,7 +201,7 @@
 ## Version 1.1.3.0-release - `<Archival>` edition
 
 * Released
-  * on 2019-07-24
+  * on 24 Jul 2019
   * for Kerbal Space Program 1.7.3
   * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
