@@ -13,20 +13,35 @@ updated: 01 Oct 2022 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-# Ariane 6 (L3S) [WIP]
+# Ariane 6 (L3S)
+
+European Space Agency's (ESA) future launcher Ariane 6 (L3S) for Kerbal Space Program.
 
 [Home](./index.md)
 
 ## Parts Catalog
 
-This add-on adds nine (9) resource parts
+This add-on adds five (5) Ariane 6 parts
 
----
+* Fairing (half)
 
-* Mallet
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Ariane6/master/docs/thumbs/l3s-fairing_icon.png" alt="fairing" width="25%" height="25%" />
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/Ariane6/master/GameData/Ariane6/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" />
+* Booster
 
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Ariane6/master/docs/thumbs/l3s-stage-booster_icon.png" alt="stage-booster" width="25%" height="25%" />
+
+* Interstage
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Ariane6/master/docs/thumbs/l3s-stage-inter_icon.png" alt="stage-inter" width="25%" height="25%" />
+
+* Stage One
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Ariane6/master/docs/thumbs/l3s-stage-one_icon.png" alt="stage-one" width="25%" height="25%" />
+
+* Stage Two
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Ariane6/master/docs/thumbs/l3s-stage-two_icon.png" alt="stage-two" width="25%" height="25%" />
+  
 ---
 
 [top](#parts-catalog)
