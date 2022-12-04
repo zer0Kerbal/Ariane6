@@ -23,7 +23,13 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/Ariane6/master/img/HeroLogo_1920x1920.png" alt="Ariane 6 Hero" width="50%" height="50%">
 
----
+* Includes
+  * booster
+  * fairing
+  * 5.6m
+    * decoupler
+    * first stage
+    * second stage
 
 ### See more
 
