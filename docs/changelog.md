@@ -21,7 +21,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | spacedock  | (https://spacedock.info/mod/2185)                                 |
 | ckan       | Ariane6                                                           |
 
-## 1.1.99.0-adoption - `<Thank you Matheo G` edition
+## Version 1.1.99.0-adoption - `<Thank you Matheo G>` edition
 
 * Released
   * on 02 Dec 2022
