@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Ariane 6 (ARIANE)                                                 |
+| modName    | Ariane 6 (L3S)                                                 |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-2.0                                                           |
 | author     | Matheo G and zer0Kerbal                                           |
@@ -9,6 +9,18 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Ariane6)              |
 | spacedock  | (https://spacedock.info/mod/2185)                                 |
 | ckan       | Ariane6                                                           |
+
+### Future Plans
+
+* scale down for stock
+  * from 5.75m to 3.75m
+  * (~1.55)
+  * mass?
+  * et al?
+* booster
+  * attachment?
+  * decouple?
+  * fuel xfeed?
 
 ## Version 1.1.4.0-release - `<Archival>` edition
 
