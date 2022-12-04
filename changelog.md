@@ -20,6 +20,9 @@
 ### Summary
 
 * Adoption by zer0Kerbal
+* this thing is HUGE!
+  * hanger extender not required
+  * but recommended
 * merged the two versions into one (RSS patch)
 * lots of small fixes *still some minor issues*
 * localization completed (initial language only)
